@@ -1,4 +1,3 @@
-import { FUNCTIONS_CONFIG_MANIFEST } from "next/dist/shared/lib/constants";
 import Solution from "./Solution";
 
 export default function Lab1Page(){
